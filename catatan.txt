@@ -3,3 +3,8 @@ git mv nama1.txt nama2.txt   (utk ubah nama file)
 touch namaFile.txt (bash command-to create file)
 
 mv nama1.txt nama2.md       (bs jg)
+
+
+git add -u   (update)
+
+git add namaFile
