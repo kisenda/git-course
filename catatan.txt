@@ -8,3 +8,7 @@ mv nama1.txt nama2.md       (bs jg)
 git add -u   (update)
 
 git add namaFile
+
+git branch
+
+git checkout - b namaBranch
