@@ -12,3 +12,5 @@ git add namaFile
 git branch
 
 git checkout - b namaBranch
+
+git checkout master/main
