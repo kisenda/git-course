@@ -8,3 +8,19 @@ mv nama1.txt nama2.md       (bs jg)
 git add -u   (update)
 
 git add namaFile
+
+git branch
+
+git branch -a / --all
+
+git checkout -b namaBranch
+
+git checkout master/main
+
+
+tahap merge :
+1. git merge branch1 branch2
+
+2. git mergetool  -> pilih yg sesuai
+
+3. git commit -m "merge solved"
