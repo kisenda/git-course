@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-
-coba branch and merge
-=======
-nyoba apa ini jadi masalah?
-
-*nyoba branch
->>>>>>> 9be20abcc9e194d2256e64d357261f490a2197ef
