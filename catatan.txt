@@ -24,3 +24,6 @@ tahap merge :
 2. git mergetool  -> pilih yg sesuai
 
 3. git commit -m "merge solved"
+
+
+"saya sedang mencoba edit online lewat github"
