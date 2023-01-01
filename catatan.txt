@@ -26,4 +26,5 @@ tahap merge :
 3. git commit -m "merge solved"
 
 
-"saya sedang mencoba mengganti tulisan disini - gmn sinkronisasinya ?"
+//sederet ini utk experiment yaa
+"gmn sinkronisasinya ? hmm..."
